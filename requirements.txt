@@ -1,3 +1,4 @@
-!pip install python-telegram-bot --upgrade
-!pip install nest_asyncio
-!pip install python-dotenv
+python-telegram-bot
+requests
+python-dotenv
+nest_asyncio
